@@ -1,6 +1,7 @@
 {
     "name": "mmodule/todo",
     "description": "My Todo Module",
+    "0.0.1": { @composer.json },
     "type": "library",
     "require": {
         "php": ">=7.0.0",
